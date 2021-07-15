@@ -20,4 +20,6 @@ Unsere Vorschläge für Datenstrukturen:
  - Red-Black-Tree ⭐⭐⭐
  - AVL-Tree ⭐⭐⭐
 
+**Update 2:** In der letzten Veranstaltung haben wir uns darauf geeinigt, den Beginn der nächsten Vorlesungszeit als Abgabedatum zu wählen. Bitte lasst uns also bis zum **18. Oktober 2021** Eure Ausarbeitung und die finale Version Eures Codes (gern wieder als Repo-Link) zukommen.
+
 **Update:** Wie in der [Einführungsveranstaltung](https://github.com/JayTee42/tubaf-csem-2021/blob/main/HowToSeminar_Themen.pdf) erwähnt, könnt Ihr Euch per Mail für das Seminar anmelden. Dazu müsst Ihr uns nur eine kurze Notiz mit **drei Themenwünschen in absteigender Reihenfolge, Eurem Namen und Eurer Matrikel-Nr.** zukommen lassen (treumer at tu-freiberg.de). Deadline ist der **18. April**. Wenn doppelte Themenwünsche eingehen, erhält die jeweils erste Anfrage den Zuschlag. Die Termine für die eigentlichen Vorträge vergeben wir dann nach Ablauf der Deadline.
